@@ -1,0 +1,5 @@
+server_host           = "13.233.100.29"
+server_user           = "ubuntu"
+ssh_private_key_path  = "C:\\Users\\Shreya\\.ssh\\mumbai-key.pem"
+local_file_path       = "C:\\Users\\Shreya\\Downloads\\html\\html"
+remote_file_path      = "/var/www/html"
